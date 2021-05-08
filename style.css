@@ -1,0 +1,27 @@
+.navbar{
+    background-color: green;
+    text-align: center;
+    padding: 1% 7%;
+    border: 0 auto;
+
+
+}
+.navbar a {
+    text-align: center;
+    font-size: 1.2rem;
+    color: wihite;
+    padding: 10px;
+    text-decoration: none;
+    border: 0;
+}
+body{
+    background-image: url("1.jpg");
+    border: 0;
+    background-size: 1150px 500px;
+    background-repeat:no-repeat;
+
+}
+p{
+    color: red;
+    text-align: unset;
+}
